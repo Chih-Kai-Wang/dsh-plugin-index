@@ -4,6 +4,6 @@
 [plugin-market-generator](https://github.com/deepseek-ai/deepseek-harness/tree/main/apps/plugin-market-generator)
 依 `plugins.txt` 列出的套件與倉庫產生，排程工作每天重建一次，產出有變動時才提交。
 
-索引 URL：`https://f0909172434.github.io/dsh-plugin-index/index.json`
+索引 URL：`https://chih-kai-wang.github.io/dsh-plugin-index/index.json`
 
 索引收錄的都是第三方插件。安裝前請在確認框核對來源。

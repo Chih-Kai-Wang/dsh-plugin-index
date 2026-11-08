@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  INDEX_URL: https://f0909172434.github.io/dsh-plugin-index/index.json
+  INDEX_URL: https://chih-kai-wang.github.io/dsh-plugin-index/index.json
   TITLE: 'DSH 社群插件精選'
   DESCRIPTION: '從已安裝插件與 GitHub topic:dsh-plugin 熱門倉庫自動產生'
 
